@@ -1,6 +1,7 @@
 import React from 'react';
 import Logo from './components/Logo/Logo';
 import DropDown from './components/Dropdown/Dropdown';
+import { faBars } from '@fortawesome/free-solid-svg-icons';
 import './App.css';
 
 
