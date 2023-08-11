@@ -5,7 +5,7 @@ import './Logo.css';
 const Logo = ()=> {
     return (
         <div>
-            <div className="zanoahLogo"> <img src={Zanoah} style={{ height: 60, width: 115 }} alt='zanoah logo'/>Zanoah</div>
+            <div className="zanoahLogo"> <img src={Zanoah} style={{ height: 85, width: 180 }} alt='zanoah logo'/></div>
             
         </div>
     );
