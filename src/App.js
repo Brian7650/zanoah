@@ -3,11 +3,11 @@ import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Logo from './components/Logo/Logo';
 import './App.css';
-import  Home from './components/Pages/Home';
-import  Art from './components/Pages/Art';
-import  News from './components/Pages/News';
-import  Tech from './components/Pages/Tech';
-import  Gaming from './components/Pages/Gaming';
+import  Home from './components/Pages/Home/Home';
+import  Art from './components/Pages/Art/Art';
+import  News from './components/Pages/News/News';
+import  Tech from './components/Pages/Tech/Tech';
+import  Gaming from './components/Pages/Gaming/Gaming';
 
 
 function App() {
