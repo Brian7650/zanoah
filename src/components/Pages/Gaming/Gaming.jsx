@@ -4,7 +4,7 @@ function Gaming() {
     
     return (
         <div className="gaming">
-        <h1>Home</h1>
+        <h1 style={{color:'#fff'}}>Home</h1>
         </div>
     );
 }
