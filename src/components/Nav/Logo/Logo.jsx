@@ -1,7 +1,7 @@
 import React from "react";
 import Zanoah from './Zanoah.png';
 import './Logo.css';
-import Navigation from '../Navigation/Navigation';
+import Navigation from '../../Nav/Navigation/Navigation';
 
 
 const Logo = ()=> {

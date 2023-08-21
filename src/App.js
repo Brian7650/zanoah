@@ -1,14 +1,15 @@
 import React from 'react';
-import Navbar from './components/Navbar/Navbar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Logo from './components/Logo/Logo';
+import Navbar from './components/Nav/Navbar/Navbar';
+import Navigation  from './components/Nav/Navigation/Navigation';
+import Logo from './components/Nav/Logo/Logo';
 import './App.css';
 import  Home from './components/Pages/Home/Home';
 import  Art from './components/Pages/Art/Art';
 import  News from './components/Pages/News/News';
 import  Tech from './components/Pages/Tech/Tech';
 import  Gaming from './components/Pages/Gaming/Gaming';
-import Navigation  from './components/Navigation/Navigation';
+
 
 function App() {
   return (
