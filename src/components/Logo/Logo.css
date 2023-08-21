@@ -1,6 +1,7 @@
 
 .zanoahLogo {
     display: flex;
+    justify-content:space-between;
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 25px;
